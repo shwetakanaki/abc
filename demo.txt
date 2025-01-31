@@ -1,4 +1,5 @@
 hello`
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 hi this is from cloud institution
@@ -8,3 +9,5 @@ hellooooooooo
 hi this is from cloud institution
 
 >>>>>>> 7304575fa0679b09857fb6aa14e33411d67cd38d
+=======
+>>>>>>> parent of 4c93ced (Update demo.txt)
