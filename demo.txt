@@ -3,4 +3,13 @@ hello`
 hellooooooooo
 
 hi this is from cloud institution
+<<<<<<< HEAD
+=======
+ggcdj
+cdhjhcb
+xchgy
+
+helllo 
+hi 
+>>>>>>> 6d350ee (demo file)
 
